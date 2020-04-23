@@ -1,0 +1,42 @@
+body {
+    width: 60%;
+    margin: 0 auto;
+}
+
+li {
+    list-style-type: circle;
+}
+/* #leftRow { font-size: 40px;
+color: orange;
+}
+#rightRow { font-size: 40px;
+    color: red;
+    } */
+
+header text{
+    color: #4d4d4d;
+font-family: "Brush Script MT";
+cursive; 
+font-size: 24px; 
+font-style: normal; 
+font-variant: normal; 
+font-weight: 700; 
+line-height: 26.4px; 
+    }
+#icons {
+    text-align: right;
+}
+#ingredients {
+    position: relative;
+    text-align: center;
+}
+#leftRow{
+position: absolute;
+  top: 8px;
+  left: 16px;
+}
+#rightRow{
+    position: absolute;
+  top: 8px;
+  right: 16px;
+}
